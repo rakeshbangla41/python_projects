@@ -7,6 +7,5 @@ I have used Python and its libraries -   1) Pandas and NumPy for data analysis a
  
 In this project, I have done EDA on Marketing Campaign Dataset. You can click on the 'EDA on Marketing Campaign Dataset' directory above to know the details about the project and view the project in either PDF format or iPython notebook format. Or you can click here to open: 
 
-[EDA on Marketing Campaign Dataset](https://github.com/rakeshbangla41/exploratory_data_analysis/tree/main/EDA%20on%20Marketing%20Campaign%20Dataset)
 
 
